@@ -104,7 +104,7 @@ Joshua Johnson — Machine Learning Trainee & Python Developer
 ## Contact
 
 All Rights Reserved under Mr Joshua Johnson (@joshuajohnsonnn)  
-Machine Learning Trainee and Python Developer.  
+Data Science Trainee and Python Developer.  
 London, UK.
 
 Feel free to open an issue or submit a pull request if you'd like to contribute or suggest improvements!
